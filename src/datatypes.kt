@@ -16,5 +16,9 @@ fun main() {
      */
 
     var num = 72
-    var y = num.to
+    var y = num.toDouble()
+    println(y)
+    var a = 62.5
+    var new = a.toInt()
+    println(new)
 }
